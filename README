@@ -1,0 +1,1 @@
+Written using Python 2.7. Requires [mutagen](http://code.google.com/p/mutagen/), [pyglet](http://www.pyglet.org/download.html), and [AVbin](http://code.google.com/p/avbin/).
